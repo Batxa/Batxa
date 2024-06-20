@@ -3,7 +3,7 @@
 
 Data Scientist, Industrial Engineer, MS in Finances, MS in Mechanical Engineering. Fulbright Alumni and enthusiastic alpinist.
 
-Highly motivated Data Scientist/Analyst with over 20 years of experience and a unique combination of technical and financial expertise. Fulbright Scholar with a passion for problem-solving and continuous learning.
+Highly motivated Data Scientist/Analyst with over 20 years of industrial experience and a unique combination of technical and financial expertise. Fulbright Scholar with a passion for problem-solving and continuous learning.
 
 Leveraging a strong background in Industrial and Mechanical Engineering, coupled with a Master's in Finance, I excel at optimizing processes, ensuring quality, and managing projects across diverse industries. My experience spans renewables, oil & gas, construction, automotive, and logistics.
 
