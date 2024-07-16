@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan</h1>
-<h3 align="center">An enthusiastic data scientist & analyst</h3>
+<h3 align="center">An enthusiastic data engineer, data scientist & data analyst</h3>
 
 Data Scientist, Industrial Engineer, MS in Finances, MS in Mechanical Engineering. Fulbright Alumni and enthusiastic alpinist.
 
